@@ -7,9 +7,13 @@ The purpose of this election audit analysis is to learn the language of Python. 
 Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 
 •	How many votes were cast in this congressional election? 369,711
+
 •	Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct. Jefferson received 38,855 votes which made up 10.5% of votes, Denver received 306,055 votes which made up 82.8% of the total, and Arapahoe received 24,801 votes which made up 6.7% of the total.
+
 •	Which county had the largest number of votes? Denver
+
 •	Provide a breakdown of the number of votes and the percentage of the total votes each candidate received. Charles Stockham received 85,213 votes (23%), Diana DeGette received 272,892 votes (73.8%), and Raymon Doane received 11,606 votes (3.1%).
+
 •	Which candidate won the election, what was their vote count, and what was their percentage of the total votes? Diana DeGette won with 272,892 votes (73.8%).
  
   ![output](total_results.png)
